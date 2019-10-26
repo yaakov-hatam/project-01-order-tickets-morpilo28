@@ -1,0 +1,14 @@
+[
+  {
+    "day": "Wed, Sep 25",
+    "departure": "12:01 PM",
+    "duration": "4h19m",
+    "arrival": "4:20 PM",
+    "operator": "citilink",
+    "busId": "GLI50533",
+    "price": "25$",
+    "seats": 30,
+    "from": "New York, NY",
+    "to": "Washington, DC"
+  }
+]
